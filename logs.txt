@@ -1,0 +1,297 @@
+
+
+[29/03/2023, 17:12:05] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.15.0
+Bot Version: 1.5.3
+
+[6/29/2023, 4:06:42 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[6/29/2023, 4:06:45 PM] [CONFIG ERROR(S)] 
+TicketButton3.TicketCategoryID is not a valid category!
+ TicketButton3.SupportRoles is not a valid role!
+
+[6/29/2023, 4:06:45 PM] [READY] Bot is now ready!
+
+[6/29/2023, 4:07:06 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[6/29/2023, 4:07:09 PM] [READY] Bot is now ready!
+
+[6/29/2023, 4:07:21 PM] [SLASH COMMAND] Command: panel, User: boostplaza.com#0
+
+[6/29/2023, 4:07:25 PM] [TICKET CREATION] Button: TicketButton1, User: boostplaza.com#0
+
+[6/29/2023, 4:07:30 PM] [TICKET CLOSED] A ticket has been successfully closed
+
+[6/29/2023, 4:08:32 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[6/29/2023, 4:08:34 PM] [READY] Bot is now ready!
+
+[6/29/2023, 4:08:37 PM] [SLASH COMMAND] Command: panel, User: boostplaza.com#0
+
+[6/29/2023, 4:08:46 PM] [TICKET CREATION] Button: TicketButton1, User: boostplaza.com#0
+
+[6/29/2023, 4:10:58 PM] [TICKET CLOSED] A ticket has been successfully closed
+
+[6/29/2023, 4:14:02 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[6/29/2023, 4:14:05 PM] [READY] Bot is ready!
+
+[6/29/2023, 4:14:35 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[6/29/2023, 4:14:38 PM] [READY] Bot is ready!
+
+[6/29/2023, 4:14:41 PM] [SLASH COMMAND] Command: panel, User: boostplaza.com#0
+
+[6/29/2023, 4:16:28 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[6/29/2023, 4:16:30 PM] [READY] Bot is ready!
+
+[6/29/2023, 4:16:35 PM] [TICKET CREATION] Button: TicketButton1, User: boostplaza.com#0
+
+[6/29/2023, 4:16:41 PM] [TICKET CLOSED] A ticket has been successfully closed
+
+[6/29/2023, 4:30:25 PM] [TICKET CREATION] Button: TicketButton1, User: yoga_v2#0
+
+[6/29/2023, 4:36:16 PM] [TICKET CREATION] Button: TicketButton1, User: doseofcrown.#0
+
+[6/29/2023, 4:36:46 PM] [TICKET CLOSED] A ticket has been successfully closed
+
+[8/31/2023, 1:20:05 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.9.0
+Bot Version: 1.5.3
+
+[8/31/2023, 1:20:14 PM] [unhandledRejection] [v1.5.3]
+Error: Used disallowed intents
+    at WebSocketShard.onClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\ws\dist\index.js:1066:15)
+    at WebSocket.emit (node:events:394:28)
+    at WebSocket.emitClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\ws\lib\websocket.js:258:10)
+    at TLSSocket.socketOnClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\ws\lib\websocket.js:1264:15)
+    at TLSSocket.emit (node:events:406:35)
+    at node:net:672:12
+    at TCP.done (node:_tls_wrap:580:7)
+
+[8/31/2023, 1:21:05 PM] [unhandledRejection] [v1.5.3]
+Error: Used disallowed intents
+    at WebSocketShard.onClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\ws\dist\index.js:1066:15)
+    at WebSocket.emit (node:events:394:28)
+    at WebSocket.emitClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\ws\lib\websocket.js:258:10)
+    at TLSSocket.socketOnClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\ws\lib\websocket.js:1264:15)
+    at TLSSocket.emit (node:events:406:35)
+    at node:net:672:12
+    at TCP.done (node:_tls_wrap:580:7)
+
+[8/31/2023, 1:22:08 PM] [unhandledRejection] [v1.5.3]
+Error: Used disallowed intents
+    at WebSocketShard.onClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\ws\dist\index.js:1066:15)
+    at WebSocket.emit (node:events:394:28)
+    at WebSocket.emitClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\ws\lib\websocket.js:258:10)
+    at TLSSocket.socketOnClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\ws\lib\websocket.js:1264:15)
+    at TLSSocket.emit (node:events:406:35)
+    at node:net:672:12
+    at TCP.done (node:_tls_wrap:580:7)
+
+[8/31/2023, 1:23:25 PM] [unhandledRejection] [v1.5.3]
+Error: Used disallowed intents
+    at WebSocketShard.onClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\ws\dist\index.js:1066:15)
+    at WebSocket.emit (node:events:394:28)
+    at WebSocket.emitClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\ws\lib\websocket.js:258:10)
+    at TLSSocket.socketOnClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\ws\lib\websocket.js:1264:15)
+    at TLSSocket.emit (node:events:406:35)
+    at node:net:672:12
+    at TCP.done (node:_tls_wrap:580:7)
+
+[8/31/2023, 1:24:14 PM] [unhandledRejection] [v1.5.3]
+Error: Used disallowed intents
+    at WebSocketShard.onClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\ws\dist\index.js:1066:15)
+    at WebSocket.emit (node:events:394:28)
+    at WebSocket.emitClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\ws\lib\websocket.js:258:10)
+    at TLSSocket.socketOnClose (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\ws\lib\websocket.js:1264:15)
+    at TLSSocket.emit (node:events:406:35)
+    at node:net:672:12
+    at TCP.done (node:_tls_wrap:580:7)
+
+[8/31/2023, 1:25:56 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.9.0
+Bot Version: 1.5.3
+
+[8/31/2023, 1:26:00 PM] [READY] Bot is ready!
+
+[8/31/2023, 1:26:00 PM] [CONFIG ERROR(S)] 
+TicketSettings.LogsChannelID is not a valid channel!
+ TicketButton1.TicketCategoryID is not a valid category!
+ TicketButton2.TicketCategoryID is not a valid category!
+ TicketButton1.SupportRoles is not a valid role!
+ TicketButton2.SupportRoles is not a valid role!
+
+[8/31/2023, 1:26:13 PM] [MESSAGE COMMAND] Command: t!help, User: xyz_void#0
+
+[8/31/2023, 1:26:32 PM] [SLASH COMMAND] Command: panel, User: xyz_void#0
+
+[8/31/2023, 1:32:57 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.9.0
+Bot Version: 1.5.3
+
+[8/31/2023, 1:33:00 PM] [READY] Bot is ready!
+
+[8/31/2023, 1:33:25 PM] [SLASH COMMAND] Command: panel, User: xyz_void#0
+
+[8/31/2023, 1:34:34 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.9.0
+Bot Version: 1.5.3
+
+[8/31/2023, 1:34:38 PM] [READY] Bot is ready!
+
+[8/31/2023, 1:34:43 PM] [SLASH COMMAND] Command: panel, User: xyz_void#0
+
+[8/31/2023, 1:35:47 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.9.0
+Bot Version: 1.5.3
+
+[8/31/2023, 1:35:50 PM] [READY] Bot is ready!
+
+[8/31/2023, 1:35:54 PM] [SLASH COMMAND] Command: panel, User: xyz_void#0
+
+[8/31/2023, 1:37:06 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.9.0
+Bot Version: 1.5.3
+
+[8/31/2023, 1:37:09 PM] [READY] Bot is ready!
+
+[8/31/2023, 1:37:17 PM] [SLASH COMMAND] Command: panel, User: xyz_void#0
+
+[8/31/2023, 1:39:46 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.9.0
+Bot Version: 1.5.3
+
+[8/31/2023, 1:39:49 PM] [READY] Bot is ready!
+
+[8/31/2023, 1:39:56 PM] [SLASH COMMAND] Command: panel, User: xyz_void#0
+
+[8/31/2023, 1:39:57 PM] [unhandledRejection] [v1.5.3]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[1].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.runRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1021:23)
+    at async SequentialHandler.queueRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:862:14)
+    at async REST.request (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async TextChannel.send (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[8/31/2023, 1:39:59 PM] [MESSAGE COMMAND] Command: t!panel, User: xyz_void#0
+
+[8/31/2023, 1:39:59 PM] [unhandledRejection] [v1.5.3]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[1].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.runRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1021:23)
+    at async SequentialHandler.queueRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:862:14)
+    at async REST.request (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async TextChannel.send (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[8/31/2023, 1:40:27 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.9.0
+Bot Version: 1.5.3
+
+[8/31/2023, 1:40:31 PM] [READY] Bot is ready!
+
+[8/31/2023, 1:40:37 PM] [MESSAGE COMMAND] Command: t!panel, User: xyz_void#0
+
+[8/31/2023, 1:40:38 PM] [unhandledRejection] [v1.5.3]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[1].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.runRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1021:23)
+    at async SequentialHandler.queueRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:862:14)
+    at async REST.request (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async TextChannel.send (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[8/31/2023, 1:40:44 PM] [SLASH COMMAND] Command: panel, User: xyz_void#0
+
+[8/31/2023, 1:40:46 PM] [unhandledRejection] [v1.5.3]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[1].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.runRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1021:23)
+    at async SequentialHandler.queueRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:862:14)
+    at async REST.request (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async TextChannel.send (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[8/31/2023, 1:42:02 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.9.0
+Bot Version: 1.5.3
+
+[8/31/2023, 1:42:05 PM] [READY] Bot is ready!
+
+[8/31/2023, 1:42:11 PM] [MESSAGE COMMAND] Command: t!panel, User: xyz_void#0
+
+[8/31/2023, 1:42:18 PM] [TICKET CREATION] Button: TicketButton1, User: xyz_void#0
+
+[8/31/2023, 1:42:19 PM] [unhandledRejection] [v1.5.3]
+DiscordAPIError[50001]: Missing Access
+    at handleErrors (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.runRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1021:23)
+    at async SequentialHandler.queueRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:862:14)
+    at async REST.request (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async MessageManager.pin (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\discord.js\src\managers\MessageManager.js:210:5)
+    at async Message.pin (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\discord.js\src\structures\Message.js:755:5)
+    at async C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\events\interactionCreate.js:212:15
+
+[8/31/2023, 1:42:19 PM] [unhandledRejection] [v1.5.3]
+DiscordAPIError[50001]: Missing Access
+    at handleErrors (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.runRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1021:23)
+    at async SequentialHandler.queueRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:862:14)
+    at async REST.request (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async TextChannel.send (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[8/31/2023, 1:42:20 PM] [unhandledRejection] [v1.5.3]
+DiscordAPIError[50001]: Missing Access
+    at handleErrors (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.runRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1021:23)
+    at async SequentialHandler.queueRequest (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:862:14)
+    at async REST.request (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async TextChannel.send (C:\Users\$ xyz\Downloads\tickets_bot\649db3401de27-Boost Plaza Tickets.rar\Boost Plaza Tickets\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[8/31/2023, 1:44:08 PM] [MESSAGE COMMAND] Command: t!close, User: yusf_xyz#0
+
+[8/31/2023, 1:44:15 PM] [TICKET CLOSED] A ticket has been successfully closed
+
+[8/31/2023, 1:44:28 PM] [MESSAGE COMMAND] Command: t!panel, User: xyz_void#0
+
+[8/31/2023, 1:44:33 PM] [TICKET CREATION] Button: TicketButton1, User: xyz_void#0
+
+[8/31/2023, 1:44:36 PM] [TICKET CREATION] Button: TicketButton2, User: xyz_void#0
+
+[8/31/2023, 1:45:16 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v16.9.0
+Bot Version: 1.5.3
+
+[8/31/2023, 1:45:21 PM] [READY] Bot is ready!
+
+[8/31/2023, 1:45:39 PM] [SLASH COMMAND] Command: close, User: xyz_void#0
+
+[8/31/2023, 1:45:41 PM] [TICKET CLOSED] A ticket has been successfully closed
+
+[8/31/2023, 1:46:07 PM] [TICKET CREATION] Button: TicketButton2, User: xyz_void#0
+
+[8/31/2023, 1:47:36 PM] [SLASH COMMAND] Command: close, User: xyz_void#0
+
+[8/31/2023, 1:47:38 PM] [TICKET CLOSED] A ticket has been successfully closed
